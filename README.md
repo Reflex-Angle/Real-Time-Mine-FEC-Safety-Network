@@ -61,6 +61,10 @@ The output of the simulation includes:
 - [CloudSim Toolkit](https://github.com/Cloudslab/cloudsim)
 - [iFogSim Toolkit](https://github.com/Cloudslab/iFogSim)
 
+## Contributors
+- Sriram B. Swami
+- Meghna Varma
+
 ## License
 This project is licensed under the MIT License.
 
